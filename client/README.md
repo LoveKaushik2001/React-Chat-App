@@ -8,4 +8,4 @@ Runs the app in the development mode.\
 
 ### `npm install`
 
-It install all dependencies and modules required for it.
+It install all dependencies and modules required for client side.
